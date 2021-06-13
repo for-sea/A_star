@@ -4,15 +4,16 @@
 BFS算法、DFS算法、A\*算法解决十五码问题
 
 文件：
-A_star.py:                      A\*算法运行脚本；
-BFS.py:                         BFS算法运行脚本；
-DFS_max_deepth.py:              DFS算法运行脚本；
-report_A_star_E.txt:            初始状态1，欧氏距离-A\*算法运行结果输出文件；
-report_A_star_M.txt:            初始状态1，曼哈顿距离-A\*算法运行结果输出文件；
-report_A_star_E_new.txt:        初始状态2，欧氏距离-A\*算法运行结果输出文件；
-report_A_star_M_new.txt:        初始状态2，曼哈顿距离-A\*算法运行结果输出文件；
-report_DFS_max_deepth.txt:      DFS算法运行结果输出文件；
-report_BFS.txt:                 BFS算法运行结果输出文件。
+
+* A_star.py:                      A\*算法运行脚本；
+* BFS.py:                         BFS算法运行脚本；
+* DFS_max_deepth.py:              DFS算法运行脚本；
+* report_A_star_E.txt:            初始状态1，欧氏距离-A\*算法运行结果输出文件；
+* report_A_star_M.txt:            初始状态1，曼哈顿距离-A\*算法运行结果输出文件；
+* report_A_star_E_new.txt:        初始状态2，欧氏距离-A\*算法运行结果输出文件；
+* report_A_star_M_new.txt:        初始状态2，曼哈顿距离-A\*算法运行结果输出文件；
+* report_DFS_max_deepth.txt:      DFS算法运行结果输出文件；
+* report_BFS.txt:                 BFS算法运行结果输出文件。
 
 
 程序运行方法：
